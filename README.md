@@ -3,7 +3,7 @@
 
 <h1 align='center'>Навыки</h1>
 
-<center> 
+<div align="center">
   
 | Параметр | Описание |
 | ------ | ----------- |
@@ -16,14 +16,14 @@
 | Фреймворки    |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt = 'bootstrap' width = '40px' height = '40px'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt = 'tailwindcss' width = '40px' height = '40px'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt = 'vuejs' width = '40px' height = '40px'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt = 'laravel' width = '40px' height = '40px'/> |
 | CMS    |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg"  alt = 'drupal' width = '40px' height = '40px'/> |
 
-</center>
+</div>
 
 ***
 
 
 ### Моя статистика
 
-<div id='stat' align="left" width = '100%'>
+<div id='stat' align="center" width = '100%'>
 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yaroslav-Pakhomov&theme=github_dark" alt = 'profile-details'/>
 

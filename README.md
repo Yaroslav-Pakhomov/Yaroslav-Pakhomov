@@ -103,7 +103,7 @@
   * <a href="https://github.com/Yaroslav-Pakhomov/3.laravel-store-1.local" title="3.laravel-store-1.local"> Интернет-магазин</a> на чистом Laravel;
 
 * ### Фреймворки VUE и Laravel ( <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="vuejs" alt = 'vuejs' width = '20px' height = '20px'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" title="laravel" alt = 'laravel' width = '20px' height = '20px'/> )
-  * <a href="https://github.com/Yaroslav-Pakhomov/docker-laravel-wsl2-base" title="docker-laravel-wsl2-base"> Создание доски объявления</a> по методологии SPA (VUE и Laravel) CRUD с применением фронтэнд фреймворка tailwindcss, адаптера Inertia Breeze ;
+  * <a href="https://github.com/Yaroslav-Pakhomov/docker-mysql-laravel-vue-spa-chirps" title="docker-mysql-laravel-vue-spa-chirps"> Создание доски объявления</a> по методологии SPA (VUE и Laravel) CRUD с применением фронтэнд фреймворка tailwindcss, адаптера Inertia Breeze ;
 
 ***
 
@@ -117,8 +117,6 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yaroslav-Pakhomov&theme=github_dark" alt = 'repos-per-language'/>
   
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yaroslav-Pakhomov&theme=github_dark" alt = 'repos-per-language'/>
-  
-  <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yaroslav-Pakhomov&theme=github_dark" alt = 'repos-per-language'/> -->
 
 </div>
 

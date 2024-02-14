@@ -66,7 +66,7 @@
       <td>Фреймворки</td>
       <td> 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap" alt = 'bootstrap' width = '40px' height = '40px'/> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="tailwindcss" alt = 'tailwindcss' width = '40px' height = '40px'/> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" title="tailwindcss" alt = 'tailwindcss' width = '40px' height = '40px'/> 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="vuejs" alt = 'vuejs' width = '40px' height = '40px'/> 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" title="laravel" alt = 'laravel' width = '40px' height = '40px'/>
       </td>

@@ -97,12 +97,12 @@
 * ### Фреймворк VUE ( <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="vuejs" alt = 'vuejs' width = '20px' height = '20px'/> )
   * <a href="https://github.com/Yaroslav-Pakhomov/vuejs-base" title="vuejs-base"> Практика по VUE</a>: базовый уровень;
 
-* ### Фреймворк Laravel ( <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" title="laravel" alt = 'laravel' width = '20px' height = '20px'/> )
+* ### Фреймворк Laravel ( <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" title="laravel" alt = 'laravel' width = '20px' height = '20px'/> )
   * <a href="https://github.com/Yaroslav-Pakhomov/docker-laravel-wsl2-base" title="docker-laravel-wsl2-base"> Практика по Laravel</a>: базовый уровень в контейнере Docker, БД MySQL;
   * <a href="https://github.com/Yaroslav-Pakhomov/laravel-blog.local" title="laravel-blog.local"> Блог</a> на чистом Laravel с админ-панелью на базе Admin LTE;
   * <a href="https://github.com/Yaroslav-Pakhomov/3.laravel-store-1.local" title="3.laravel-store-1.local"> Интернет-магазин</a> на чистом Laravel;
 
-* ### Фреймворки VUE и Laravel ( <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="vuejs" alt = 'vuejs' width = '20px' height = '20px'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" title="laravel" alt = 'laravel' width = '20px' height = '20px'/> )
+* ### Фреймворки VUE и Laravel ( <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="vuejs" alt = 'vuejs' width = '20px' height = '20px'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" title="laravel" alt = 'laravel' width = '20px' height = '20px'/> )
   * <a href="https://github.com/Yaroslav-Pakhomov/docker-mysql-laravel-vue-spa-chirps" title="docker-mysql-laravel-vue-spa-chirps"> Создание доски объявления</a> по методологии SPA (VUE и Laravel) CRUD с применением фронтэнд фреймворка tailwindcss, адаптера Inertia Breeze ;
   * <a href="https://github.com/Yaroslav-Pakhomov/docker-mysql-laravel-vue-spa-store" title="docker-mysql-laravel-vue-spa-store"> Создание интернет-магазина</a> по методологии SPA (VUE и Laravel) CRUD с применением фронтэнд фреймворка tailwindcss, адаптера Inertia Breeze ;
 

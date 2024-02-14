@@ -53,7 +53,7 @@
       </td>
     </tr>
     <tr>
-      <td>Среда разработки</td>
+      <td>Окружение и инструменты разработки</td>
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" title="linux" alt = 'linux' width = '40px' height = '40px'/> 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" title="ubuntu" alt = 'ubuntu' width = '40px' height = '40px'/> 

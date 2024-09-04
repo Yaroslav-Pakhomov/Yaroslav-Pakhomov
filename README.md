@@ -104,7 +104,7 @@
 
 * ### Фреймворки VUE и Laravel ( <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="vuejs" alt = 'vuejs' width = '20px' height = '20px'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" title="laravel" alt = 'laravel' width = '20px' height = '20px'/> )
   * <a href="https://github.com/Yaroslav-Pakhomov/docker-mysql-laravel-vue-spa-chirps" title="docker-mysql-laravel-vue-spa-chirps"> Создание доски объявления</a> по методологии SPA (VUE и Laravel) CRUD с применением фронтэнд фреймворка tailwindcss, адаптера Inertia Breeze ;
-  * <a href="https://github.com/Yaroslav-Pakhomov/docker-mysql-laravel-vue-spa-store" title="docker-mysql-laravel-vue-spa-store"> Создание интернет-магазина</a> по методологии SPA (VUE и Laravel) CRUD с применением фронтэнд фреймворка tailwindcss, адаптера Inertia Breeze ;
+  * <a href="https://github.com/Yaroslav-Pakhomov/docker-mysql-laravel-vue-spa-store" title="docker-mysql-laravel-vue-spa-store"> Создание интернет-магазина</a> по методологии SPA (VUE и Laravel) с применением фронтэнд фреймворка tailwindcss, адаптера Inertia Breeze ;
 
 ***
 

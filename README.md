@@ -1,7 +1,8 @@
-### Привет, я Ярослав Пахомов 👋 !!!
+### Привет, я Ярослав Пахомов 👋
 
+Backend-разработчик на PHP/Laravel. Разрабатываю API и веб-приложения, работаю с PostgreSQL, Redis, Docker, очередями задач, тестированием и Vue.js.
 
-<h1 align='center'>Мои навыки</h1>
+<h2 align="center">Навыки</h2>
 
 <div align="center">
 
@@ -14,7 +15,7 @@
   </thead>
   <tbody>
     <tr>
-      <td>Языки</td>
+      <td>Языки и веб-технологии</td>
       <td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" title="html5" alt = 'html5' width = '40px' height = '40px'/> 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" title="css3" alt = 'css3' width = '40px' height = '40px'/> 
@@ -84,7 +85,7 @@
 
 ***
 
-## Работы в репозитории
+## Проекты
 
 * ### Фронтенд (<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" title="html5" alt = 'html5' width = '20px' height = '20px'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" title="css3" alt = 'css3' width = '20px' height = '20px'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="javascript" alt = 'javascript' width = '20px' height = '20px'/>)
   * <a href="https://github.com/Yaroslav-Pakhomov/porten.local" title="porten.local"> Вёрстка</a> по методологии БЭМ (Блок, Элемент, Модификатор) с применением препроцессора SCSS;
@@ -94,32 +95,32 @@
   * <a href="https://github.com/Yaroslav-Pakhomov/php-practice-mysqli" title="php-practice-mysqli"> Практика PHP и MySQLi</a>: базовый уровень, углублённый уровень, ООП и MVC уровень;
   * <a href="https://github.com/Yaroslav-Pakhomov/design-patterns.local" title="design-patterns.local"> Шаблоны проектирования на PHP</a>: порождающие, структурные, поведенческие;
 
-* ### Фреймворк VUE ( <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="vuejs" alt = 'vuejs' width = '20px' height = '20px'/> )
-  * <a href="https://github.com/Yaroslav-Pakhomov/vuejs-base" title="vuejs-base"> Практика по VUE</a>: базовый уровень;
+* ### Vue.js ( <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="vuejs" alt = 'vuejs' width = '20px' height = '20px'/> )
+  * <a href="https://github.com/Yaroslav-Pakhomov/vuejs-base" title="vuejs-base"> Практика по Vue.js</a>: базовый уровень;
 
-* ### Фреймворк Laravel ( <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" title="laravel" alt = 'laravel' width = '20px' height = '20px'/> )
+* ### Laravel ( <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" title="laravel" alt = 'laravel' width = '20px' height = '20px'/> )
   * <a href="https://github.com/Yaroslav-Pakhomov/docker-laravel-wsl2-base" title="docker-laravel-wsl2-base"> Практика по Laravel</a>: базовый уровень в контейнере Docker, БД MySQL;
   * <a href="https://github.com/Yaroslav-Pakhomov/laravel-blog.local" title="laravel-blog.local"> Блог</a> на чистом Laravel с админ-панелью на базе Admin LTE;
   * <a href="https://github.com/Yaroslav-Pakhomov/3.laravel-store-1.local" title="3.laravel-store-1.local"> Интернет-магазин</a> на чистом Laravel;
 
-* ### Фреймворки VUE и Laravel ( <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="vuejs" alt = 'vuejs' width = '20px' height = '20px'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" title="laravel" alt = 'laravel' width = '20px' height = '20px'/> )
-  * <a href="https://github.com/Yaroslav-Pakhomov/docker-mysql-laravel-vue-spa-chirps" title="docker-mysql-laravel-vue-spa-chirps"> Создание доски объявления</a> по методологии SPA (VUE и Laravel) CRUD с применением фронтэнд фреймворка tailwindcss, адаптера Inertia Breeze;
-  * <a href="https://github.com/Yaroslav-Pakhomov/docker-mysql-laravel-vue-spa-store" title="docker-mysql-laravel-vue-spa-store"> Создание интернет-магазина</a> по методологии SPA (VUE и Laravel) с применением фронтэнд фреймворка tailwindcss, адаптера Inertia Breeze;
-  * <a href="https://github.com/Yaroslav-Pakhomov/laravel-vue-spa-import-excel" title="laravel-vue-spa-import-excel"> Импорт эксель-файлов</a> - импортирование статичиских и динамических Эксель-файлов по методологии SPA (VUE и Laravel) с применением фронтэнд фреймворка tailwindcss, адаптера Inertia Breeze;
-  * <a href="https://github.com/Yaroslav-Pakhomov/laravel-vue-spa-instruments" title="laravel-vue-spa-instruments"> Иструменты для разработки Laravel</a> - тесты (Функциональные/Feature и Модульные/Unit), кэширование Redis, брокер сообщений RabbitMQ, протокол связи WebSocket, clickHouse (работа с колоночной реляционная СУБД);
+* ### Laravel + Vue.js ( <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="vuejs" alt = 'vuejs' width = '20px' height = '20px'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" title="laravel" alt = 'laravel' width = '20px' height = '20px'/> )
+  * <a href="https://github.com/Yaroslav-Pakhomov/ledgerpay-platform" title="ledgerpay-platform">Финтех-система LedgerPay</a> — система для безопасной обработки денежных операций с идемпотентностью, асинхронной обработкой, защитой от одновременного изменения баланса, неизменяемым реестром операций и аудитом;
+  * <a href="https://github.com/Yaroslav-Pakhomov/docker-mysql-laravel-vue-spa-chirps" title="docker-mysql-laravel-vue-spa-chirps">Доска объявлений</a> — SPA-приложение на Laravel и Vue.js с CRUD-операциями, Inertia.js, Laravel Breeze и Tailwind CSS;
+  * <a href="https://github.com/Yaroslav-Pakhomov/docker-mysql-laravel-vue-spa-store" title="docker-mysql-laravel-vue-spa-store">Интернет-магазин</a> — SPA-приложение на Laravel и Vue.js с использованием Inertia.js, Laravel Breeze и Tailwind CSS;
+  * <a href="https://github.com/Yaroslav-Pakhomov/laravel-vue-spa-import-excel" title="laravel-vue-spa-import-excel">Импорт Excel-файлов</a> — импорт и обработка статических и динамических Excel-файлов в SPA-приложении на Laravel и Vue.js;
+  * <a href="https://github.com/Yaroslav-Pakhomov/laravel-vue-spa-instruments" title="laravel-vue-spa-instruments">Инструменты Laravel-разработки</a> — Feature- и Unit-тесты, Redis, RabbitMQ, WebSocket и ClickHouse;
 
 ***
 
+## Статистика
 
-### Моя статистика
+<div id="stat" align="center" width="100%">
 
-<div id='stat' align="center" width = '100%'>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yaroslav-Pakhomov&theme=github_dark&v=2" alt="profile-details"/>
 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yaroslav-Pakhomov&theme=github_dark" alt = 'profile-details'/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yaroslav-Pakhomov&theme=github_dark&v=2" alt="repos-per-language"/>
 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yaroslav-Pakhomov&theme=github_dark" alt = 'repos-per-language'/>
-  
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yaroslav-Pakhomov&theme=github_dark" alt = 'repos-per-language'/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yaroslav-Pakhomov&theme=github_dark&v=2" alt="most-commit-language"/>
 
 </div>
 

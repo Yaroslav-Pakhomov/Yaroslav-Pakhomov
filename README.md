@@ -123,9 +123,9 @@ SPA-приложение с авторизацией и CRUD объявлени�
 
 # Дополнительный опыт
 
-Работал или экспериментировал с:
+Работал с:
 
-`Drupal 9` · `Symfony DI` · `RabbitMQ` · `ClickHouse` · `PhpSpreadsheet` · `Go`
+`Drupal 9` · `RabbitMQ` · `ClickHouse` · `PhpSpreadsheet` · `Go`
 
 ---
 

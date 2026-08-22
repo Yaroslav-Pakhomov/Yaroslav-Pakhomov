@@ -8,8 +8,6 @@
 
 В коммерческих проектах занимаюсь разработкой и развитием backend-систем, проектированием БД и API, оптимизацией SQL, кешированием, асинхронной обработкой задач, production support и code review.
 
-🔗 [GitHub Profile](https://github.com/Yaroslav-Pakhomov)
-
 ---
 
 ## Основной стек
